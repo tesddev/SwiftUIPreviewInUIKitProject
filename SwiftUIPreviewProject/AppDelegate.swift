@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SwiftUIPreviewProject
 //
-//  Created by GIGL iOS on 06/11/2022.
+//  Created by Tes on 06/11/2022.
 //
 
 import UIKit

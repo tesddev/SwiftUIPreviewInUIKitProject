@@ -2,7 +2,7 @@
 //  PreviewSwiftUIFile.swift
 //  SwiftUIPreviewProject
 //
-//  Created by GIGL iOS on 06/11/2022.
+//  Created by Tes on 06/11/2022.
 //
 
 import SwiftUI
@@ -12,7 +12,7 @@ import UIKit
 
 let deviceNames: [String] = [
     "iPhone SE (3rd generation)",
-    "iPhone 14 Pro",
+//    "iPhone 14 Pro",
     "iPhone 14 Pro Max"
 ]
 
