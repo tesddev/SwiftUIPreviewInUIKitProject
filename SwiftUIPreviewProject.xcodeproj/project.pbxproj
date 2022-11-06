@@ -13,6 +13,8 @@
 		828396362918660E0037533F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 828396342918660E0037533F /* Main.storyboard */; };
 		82839638291866100037533F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82839637291866100037533F /* Assets.xcassets */; };
 		8283963B291866100037533F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82839639291866100037533F /* LaunchScreen.storyboard */; };
+		828396432918663B0037533F /* PreviewSampleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 828396422918663B0037533F /* PreviewSampleViewController.swift */; };
+		82839645291866A00037533F /* PreviewSwiftUIFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82839644291866A00037533F /* PreviewSwiftUIFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		82839637291866100037533F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8283963A291866100037533F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8283963C291866100037533F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		828396422918663B0037533F /* PreviewSampleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewSampleViewController.swift; sourceTree = "<group>"; };
+		82839644291866A00037533F /* PreviewSwiftUIFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewSwiftUIFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				82839637291866100037533F /* Assets.xcassets */,
 				82839639291866100037533F /* LaunchScreen.storyboard */,
 				8283963C291866100037533F /* Info.plist */,
+				828396422918663B0037533F /* PreviewSampleViewController.swift */,
+				82839644291866A00037533F /* PreviewSwiftUIFile.swift */,
 			);
 			path = SwiftUIPreviewProject;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				828396332918660E0037533F /* ViewController.swift in Sources */,
+				82839645291866A00037533F /* PreviewSwiftUIFile.swift in Sources */,
+				828396432918663B0037533F /* PreviewSampleViewController.swift in Sources */,
 				8283962F2918660E0037533F /* AppDelegate.swift in Sources */,
 				828396312918660E0037533F /* SceneDelegate.swift in Sources */,
 			);
