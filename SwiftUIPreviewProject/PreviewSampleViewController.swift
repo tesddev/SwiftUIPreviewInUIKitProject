@@ -26,7 +26,7 @@ class PreviewSampleViewController: UIViewController {
     }
 }
 
-/// To use the preview option on any class, just copy this file to the bottom of any view controller class you wish to use it with and rename the struct name to reflect the class and also the class name in the for each block. Enjoy!
+/// To use the preview option on any class, just copy this file below to the bottom of any view controller class you wish to use it with and rename the struct name to reflect the class and also the class name in the for each block. Enjoy!
 ///  Ensure you already have the PreviewSwiftUIFile or it would not compile
 ///  Ensure you're building with at least one of the devices listed in "devicesNames"
 #if canImport(SwiftUI) && DEBUG
